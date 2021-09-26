@@ -1,0 +1,14 @@
+.t-name{
+    /* width: 25px; */margin-top: 35px;
+    margin-right: 10px;
+}
+
+.t-img{
+    width: 50px
+   
+}
+
+.teacher{
+    display: flex;
+    justify-content: space-between;
+}

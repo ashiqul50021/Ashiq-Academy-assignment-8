@@ -1,0 +1,124 @@
+[
+   {
+      "key":"AIS01",
+      "name":"Ashiqul islam",
+      "position":"Professor",
+      "age":"25",
+      "degree":"Bsc in CSE,City university",
+      "experience":"2 years",
+      "img" : "https://thumbs.dreamstime.com/b/frontal-male-passport-photo-isolated-white-background-eu-standardization-frontal-male-passport-photo-isolated-white-149548031.jpg",
+      "sellary":"35000"
+   },
+   {
+      "key":"AIS02",
+      "name":"Rasel Ahmed",
+      "position":"vice-professor",
+      "age":"26",
+      "degree":"Bsc in CSE,world university",
+      "experience":"1 years",
+      "img" : "https://us.123rf.com/450wm/kadettmann/kadettmann1503/kadettmann150300153/38478040-passport-photo-of-a-guy-in-a-grey-shirt.jpg?ver=6",
+      "sellary":"3000"
+   },
+   {
+      "key":"AIS03",
+      "name":"Ahnaf Ahmed",
+      "position":"assistant-professor",
+      "age":"23",
+      "degree":"Bsc in CSE,Bangladesh university",
+      "experience":"1 years",
+      "img" : "https://thumbs.dreamstime.com/b/late-thirties-male-passport-photo-28479105.jpg",
+      "sellary":"25000"
+   },
+   {
+      "key":"AIS04",
+      "name":"mis. Afroza ahmed",
+      "position":"associate-professor",
+      "age":"20",
+      "degree":"Bsc in CSE, City university",
+      "experience":"6 month",
+      "img" : "https://media.istockphoto.com/photos/portrait-of-a-laughing-businesswoman-with-long-dark-hair-picture-id530007875?k=20&m=530007875&s=612x612&w=0&h=5YxM7M04xbn2lNu7QdlSCEZj6eDoqVKRkbvkhdSgprM=",
+      "sellary":"25000"
+   },
+   {
+      "key":"AIS05",
+      "name":"Rofiq patwory",
+      "position":"Sinior Lacturer",
+      "age":"30",
+      "degree":"Bsc in Math, City university",
+      "experience":"3 years",
+      "img" : "https://thumbs.dreamstime.com/b/photo-document-passport-id-mature-caucasian-man-suit-white-shirt-126121929.jpg",
+      "sellary":"25000"
+   },
+   {
+      "key":"AIS06",
+      "name":"Safin Ahmed",
+      "position":"Lacturer",
+      "age":"28",
+      "degree":"BBA, City university",
+      "experience":"2 years",
+      "img" : "https://i.pinimg.com/236x/f5/3e/c6/f53ec61db2e49c82b057554cb4a0cb91.jpg",
+      "sellary":"20000"
+   },
+   {
+      "key":"AIS07",
+      "name":"Shamim hossain",
+      "position":"Lacturer",
+      "age":"30",
+      "degree":"Bsc in Physics, brahmanbaria govt. college",
+      "experience":"6 month",
+      "img" : "https://www.digitalavenue.in/wp-content/uploads/2017/12/14.jpg",
+      "sellary":"22000"
+   },
+   {
+      "key":"AIS08",
+      "name":"Mahbub Alam",
+      "position":"Lacturer",
+      "age":"35",
+      "degree":"Bsc in Chemistry, City university",
+      "experience":"4 years",
+      "img" : "https://qna.org.in/images/Rahul_Jain.jpg",
+      "sellary":"21000"
+   },
+   {
+      "key":"AIS09",
+      "name":"Abdullah AL akash",
+      "position":"Lacturer",
+      "age":"26",
+      "degree":"Bsc in biology, City university",
+      "experience":"7 month",
+      "img" : "https://www.singemindia.com/wp-content/uploads/2019/06/Passport-Size-Pic.jpg",
+      "sellary":"15000"
+   },
+   {
+      "key":"AIS10",
+      "name":"Redwon Ahmed",
+      "position":"Lacturer",
+      "age":"30",
+      "degree":"BA in Engilsh, City university",
+      "experience":"4 years",
+      "img" : "https://lh3.googleusercontent.com/proxy/vrAKWS6FFBH7gK0X34I81fWUuni2cJRtgu6UT2j3z6bqsAiTZXi-qLTwR_ZUsuK_qF_ER-t_5vgIi3424OZ6EcNDa6RJ",
+      "sellary":"17000"
+   },
+   {
+      "key":"AIS11",
+      "name":"mis. jasica tanjin",
+      "position":"Lacturer",
+      "age":"20",
+      "degree":"BA in political science, City university",
+      "experience":"6 month",
+      "img" : "https://i.pinimg.com/originals/48/35/b5/4835b5f9c52fd733eb26fb2c2b47bdc7.jpg",
+      "sellary":"10000"
+   },
+   {
+      "key":"AIS12",
+      "name":"Sabikunnahar safa",
+      "position":"Lacturer",
+      "age":"26",
+      "degree":"Bsc in CSE, City university",
+      "experience":"6 month",
+      "img" : "https://drscdn.500px.org/photo/81956917/q%3D80_m%3D1500/v2?sig=9a7b602ba17c19a26dd9054a16b7590ab0bd13744b1cac5493a9349def071821",
+      "sellary":"16000"
+   }
+  
+
+]
